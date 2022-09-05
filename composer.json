@@ -1,0 +1,19 @@
+{
+  "name": "heroes/fight",
+  "description": "Auto1",
+  "keywords": [
+    "heroes",
+    "fight"
+  ],
+  "type": "project",
+  "require": {
+    "php": "7.2.34",
+    "phpunit/phpunit": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Heroes\\": "src/",
+      "Tests\\": "tests/"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\FightServiceTest::testFight":4,"Tests\\FightServiceTest::testFight with data set #0":3,"Tests\\FightServiceTest::testFight with data set #1":3},"times":{"Tests\\FightServiceTest::testFight":0.002,"Tests\\FightServiceTest::testFight with data set #0":0.002,"Tests\\FightServiceTest::testFight with data set #1":0}}
